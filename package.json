@@ -1,0 +1,23 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmarcysx/-ts-toDoList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmarcysx/-ts-toDoList/issues"
+  },
+  "homepage": "https://github.com/xmarcysx/-ts-toDoList#readme",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
